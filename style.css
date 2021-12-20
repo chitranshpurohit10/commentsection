@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    /* background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%); */
+    
+    
+}
+#whead{
+    text-align: center;
+    margin-top: 55px;
+    color: black;
+}
+
+.card-body{
+    background-color:	#f0fff0;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#main-content{
+    text-align: center;
+    margin-top: 25px;
+}
+
+#name{
+    /* display: block; */
+    margin: 0 auto;
+    padding: 5px;
+}
+
+#btn-comment{
+    margin-top: 10px;
+    border: 3px solid #523f01;
+    
+}
+
+.form-group{
+    margin-top: 10px;
+}
+/* background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%); */
+/* background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%); */
